@@ -2,5 +2,5 @@
 
 ### Seja muito bem-vindo  👋
 - 🌱 Estudando python
-- 
--->
+- ✉️ Contate-me pelo meu email: mauriciogabrieldossantos02@gmail.com
+
